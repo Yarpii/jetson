@@ -20,6 +20,15 @@ cd && git clone https://github.com/Yarpii/jetson
 ```
 
 
+### Install Tensorflow
+Execute following commands:
+```
+cd ~/jetson
+```
+```
+./install-tensorflow-v46.sh
+```
+
 #### Linux ( Tools )
 * Terminal
 * [balenaEtcher]
