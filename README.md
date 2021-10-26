@@ -11,7 +11,13 @@ NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT
 * JetPack 4.6 ([2GB]/[4GB])
 
 
-## Operating Systems
+### Download this Git
+At first, clone this repository on jetson nano.
+
+Please execute following command:
+```
+cd && git clone https://github.com/Yarpii/jetson
+```
 
 
 #### Linux ( Tools )
