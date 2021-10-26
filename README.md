@@ -7,6 +7,9 @@ NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT
 * [Nvidia Jetson Nano 2GB]
 * [Nvidia Jetson Nano 4GB]
 
+## Dependency
+* JetPack 4.6 ([2GB]/[4GB])
+
 
 ## Operating Systems
 
@@ -26,3 +29,7 @@ NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT
 
 [Nvidia Jetson Nano 2GB]: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit
 [Nvidia Jetson Nano 4GB]: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+
+
+[2GB]: https://developer.nvidia.com/jetson-nano-2gb-sd-card-image
+[4GB]: https://developer.nvidia.com/jetson-nano-sd-card-image
