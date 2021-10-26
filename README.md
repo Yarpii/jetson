@@ -1,5 +1,5 @@
 # Nvidia Jetson Nano 2GB/4GB (TX1)
-Some files and scripts for the Nvidia jetson nano 4gb 
+NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT that delivers the power of modern AI in a low-power platform. The Jetson Nano is targeted to get started fast with the NVIDIA Jetpack SDK and a full desktop Linux environment, and start exploring a new world of embedded products.
 
 
 
