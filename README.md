@@ -13,15 +13,15 @@ NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT
 
 ## Operating Systems
 
-### Linux
+
+#### Linux ( Tools )
 * Terminal
+* [balenaEtcher]
 
-### Windows
-* Putty
+#### Windows ( Tools )
+* [Putty]
 * Command Promt
-
-
-
+* [balenaEtcher]
 
 
 
@@ -33,3 +33,6 @@ NVIDIA Jetson Nano is a small, powerful computer for embedded AI systems and IoT
 
 [2GB]: https://developer.nvidia.com/jetson-nano-2gb-sd-card-image
 [4GB]: https://developer.nvidia.com/jetson-nano-sd-card-image
+
+[Putty]: https://www.putty.org
+[balenaEtcher]: https://www.balena.io/etcher/
