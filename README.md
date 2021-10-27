@@ -29,7 +29,7 @@ Execute following commands:
 cd ~/jetson
 ```
 ```
-./install-tensorflow-v46.sh
+sudo bash ./install-tensorflow-v46.sh
 ```
 
 #### Linux ( Tools )
