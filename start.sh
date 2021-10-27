@@ -7,7 +7,4 @@ sudo apt update
 sudo apt -y upgrade 
 
 # We remove some leftovers.
-sudo apt -y autoremove 
-
-# Install some tools we need to start with
-sudo apt -y install git nano
+sudo apt -y autoremove
