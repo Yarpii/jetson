@@ -21,7 +21,14 @@ sudo apt update && sudo apt install git -y
 ```
 cd && git clone https://github.com/Yarpii/jetson
 ```
-
+### Check and Install updates
+Execute following commands:
+```
+cd ~/jetson
+```
+```
+sudo bash ./start.sh
+```
 
 ### Install Tensorflow
 Execute following commands:
